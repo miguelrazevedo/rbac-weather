@@ -1,0 +1,49 @@
+{
+    "location": {
+        "name": "Braga",
+        "region": "Braga",
+        "country": "Portugal",
+        "lat": 41.55,
+        "lon": -8.45,
+        "tz_id": "Europe/Lisbon",
+        "localtime_epoch": 1700865561,
+        "localtime": "2023-11-24 22:39"
+    },
+    "forecast": {
+        "forecastday": [
+            {
+                "date": "2023-11-21",
+                "date_epoch": 1700524800,
+                "day": {
+                    "maxtemp_c": 14.1,
+                    "maxtemp_f": 57.4,
+                    "mintemp_c": 6.5,
+                    "mintemp_f": 43.8,
+                    "avgtemp_c": 9.1,
+                    "avgtemp_f": 48.4,
+                    "maxwind_mph": 8.3,
+                    "maxwind_kph": 13.3,
+                    "totalprecip_mm": 0.0,
+                    "totalprecip_in": 0.0,
+                    "avgvis_km": 10.0,
+                    "avgvis_miles": 6.0,
+                    "avghumidity": 74.0,
+                    "condition": {
+                        "text": "Sunny",
+                        "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+                        "code": 1000
+                    },
+                    "uv": 4.0
+                },
+                "astro": {
+                    "sunrise": "07:30 AM",
+                    "sunset": "05:10 PM",
+                    "moonrise": "02:13 PM",
+                    "moonset": "12:23 AM",
+                    "moon_phase": "Waxing Gibbous",
+                    "moon_illumination": 56
+                }
+            }
+        ]
+    }
+}

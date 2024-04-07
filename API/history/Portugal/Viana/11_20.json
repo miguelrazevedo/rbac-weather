@@ -1,0 +1,49 @@
+{
+    "location": {
+        "name": "Areosa",
+        "region": "Viana do Castelo",
+        "country": "Portugal",
+        "lat": 41.72,
+        "lon": -8.89,
+        "tz_id": "Europe/Lisbon",
+        "localtime_epoch": 1700866185,
+        "localtime": "2023-11-24 22:49"
+    },
+    "forecast": {
+        "forecastday": [
+            {
+                "date": "2023-11-20",
+                "date_epoch": 1700438400,
+                "day": {
+                    "maxtemp_c": 17.3,
+                    "maxtemp_f": 63.1,
+                    "mintemp_c": 9.8,
+                    "mintemp_f": 49.6,
+                    "avgtemp_c": 14.0,
+                    "avgtemp_f": 57.3,
+                    "maxwind_mph": 17.4,
+                    "maxwind_kph": 28.1,
+                    "totalprecip_mm": 0.0,
+                    "totalprecip_in": 0.0,
+                    "avgvis_km": 10.0,
+                    "avgvis_miles": 6.0,
+                    "avghumidity": 82.0,
+                    "condition": {
+                        "text": "Sunny",
+                        "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+                        "code": 1000
+                    },
+                    "uv": 5.0
+                },
+                "astro": {
+                    "sunrise": "07:31 AM",
+                    "sunset": "05:12 PM",
+                    "moonrise": "01:50 PM",
+                    "moonset": "No moonset",
+                    "moon_phase": "First Quarter",
+                    "moon_illumination": 45
+                }
+            }
+        ]
+    }
+}

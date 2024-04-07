@@ -1,0 +1,49 @@
+{
+    "location": {
+        "name": "Vila Nova De Famalicao",
+        "region": "Braga",
+        "country": "Portugal",
+        "lat": 41.41,
+        "lon": -8.53,
+        "tz_id": "Europe/Lisbon",
+        "localtime_epoch": 1700865230,
+        "localtime": "2023-11-24 22:33"
+    },
+    "forecast": {
+        "forecastday": [
+            {
+                "date": "2023-11-21",
+                "date_epoch": 1700524800,
+                "day": {
+                    "maxtemp_c": 14.9,
+                    "maxtemp_f": 58.8,
+                    "mintemp_c": 7.6,
+                    "mintemp_f": 45.7,
+                    "avgtemp_c": 10.1,
+                    "avgtemp_f": 50.2,
+                    "maxwind_mph": 9.6,
+                    "maxwind_kph": 15.5,
+                    "totalprecip_mm": 0.0,
+                    "totalprecip_in": 0.0,
+                    "avgvis_km": 10.0,
+                    "avgvis_miles": 6.0,
+                    "avghumidity": 70.0,
+                    "condition": {
+                        "text": "Sunny",
+                        "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+                        "code": 1000
+                    },
+                    "uv": 4.0
+                },
+                "astro": {
+                    "sunrise": "07:30 AM",
+                    "sunset": "05:10 PM",
+                    "moonrise": "02:13 PM",
+                    "moonset": "12:23 AM",
+                    "moon_phase": "Waxing Gibbous",
+                    "moon_illumination": 56
+                }
+            }
+        ]
+    }
+}

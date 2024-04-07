@@ -1,0 +1,49 @@
+{
+    "location": {
+        "name": "Copenhagen",
+        "region": "Hovedstaden",
+        "country": "Denmark",
+        "lat": 55.67,
+        "lon": 12.58,
+        "tz_id": "Europe/Copenhagen",
+        "localtime_epoch": 1701887722,
+        "localtime": "2023-12-06 19:35"
+    },
+    "forecast": {
+        "forecastday": [
+            {
+                "date": "2023-11-20",
+                "date_epoch": 1700438400,
+                "day": {
+                    "maxtemp_c": 5.7,
+                    "maxtemp_f": 42.2,
+                    "mintemp_c": 3.2,
+                    "mintemp_f": 37.8,
+                    "avgtemp_c": 4.9,
+                    "avgtemp_f": 40.8,
+                    "maxwind_mph": 13.4,
+                    "maxwind_kph": 21.6,
+                    "totalprecip_mm": 0.43,
+                    "totalprecip_in": 0.02,
+                    "avgvis_km": 10.0,
+                    "avgvis_miles": 6.0,
+                    "avghumidity": 86.0,
+                    "condition": {
+                        "text": "Patchy rain possible",
+                        "icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+                        "code": 1063
+                    },
+                    "uv": 2.0
+                },
+                "astro": {
+                    "sunrise": "07:54 AM",
+                    "sunset": "03:56 PM",
+                    "moonrise": "02:03 PM",
+                    "moonset": "11:19 PM",
+                    "moon_phase": "First Quarter",
+                    "moon_illumination": 45
+                }
+            }
+        ]
+    }
+}

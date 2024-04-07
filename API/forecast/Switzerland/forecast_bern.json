@@ -1,0 +1,443 @@
+{
+    "location": {
+        "name": "Bern",
+        "region": "",
+        "country": "Switzerland",
+        "lat": 46.92,
+        "lon": 7.47,
+        "tz_id": "Europe/Zurich",
+        "localtime_epoch": 1700862782,
+        "localtime": "2023-11-24 22:53"
+    },
+    "current": {
+        "last_updated_epoch": 1700862300,
+        "last_updated": "2023-11-24 22:45",
+        "temp_c": 0.9,
+        "temp_f": 33.6,
+        "is_day": 0,
+        "condition": {
+            "text": "Moderate or heavy snow showers",
+            "icon": "//cdn.weatherapi.com/weather/64x64/night/371.png",
+            "code": 1258
+        },
+        "wind_mph": 3.8,
+        "wind_kph": 6.1,
+        "wind_degree": 290,
+        "wind_dir": "WNW",
+        "pressure_mb": 1016.0,
+        "pressure_in": 30.0,
+        "precip_mm": 0.29,
+        "precip_in": 0.01,
+        "humidity": 95,
+        "cloud": 76,
+        "feelslike_c": -1.1,
+        "feelslike_f": 30.1,
+        "vis_km": 7.0,
+        "vis_miles": 4.0,
+        "uv": 1.0,
+        "gust_mph": 5.2,
+        "gust_kph": 8.4
+    },
+    "forecast": [
+        {
+            "date": "2023-11-24",
+            "date_epoch": 1700784000,
+            "day": {
+                "maxtemp_c": 9.0,
+                "maxtemp_f": 48.2,
+                "mintemp_c": 0.3,
+                "mintemp_f": 32.5,
+                "avgtemp_c": 3.6,
+                "avgtemp_f": 38.6,
+                "maxwind_mph": 10.7,
+                "maxwind_kph": 17.3,
+                "totalprecip_mm": 3.08,
+                "totalprecip_in": 0.12,
+                "totalsnow_cm": 0.95,
+                "avgvis_km": 8.6,
+                "avgvis_miles": 5.0,
+                "avghumidity": 83.0,
+                "daily_will_it_rain": 1,
+                "daily_chance_of_rain": 96,
+                "daily_will_it_snow": 0,
+                "daily_chance_of_snow": 4,
+                "condition": {
+                    "text": "Patchy rain possible",
+                    "icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+                    "code": 1063
+                },
+                "uv": 1.0
+            },
+            "astro": {
+                "sunrise": "07:46 AM",
+                "sunset": "04:48 PM",
+                "moonrise": "03:10 PM",
+                "moonset": "04:03 AM",
+                "moon_phase": "Waxing Gibbous",
+                "moon_illumination": 86,
+                "is_moon_up": 1,
+                "is_sun_up": 0
+            }
+        },
+        {
+            "date": "2023-11-25",
+            "date_epoch": 1700870400,
+            "day": {
+                "maxtemp_c": 2.3,
+                "maxtemp_f": 36.2,
+                "mintemp_c": -1.4,
+                "mintemp_f": 29.4,
+                "avgtemp_c": 0.1,
+                "avgtemp_f": 32.2,
+                "maxwind_mph": 6.3,
+                "maxwind_kph": 10.1,
+                "totalprecip_mm": 4.39,
+                "totalprecip_in": 0.17,
+                "totalsnow_cm": 3.71,
+                "avgvis_km": 6.7,
+                "avgvis_miles": 4.0,
+                "avghumidity": 89.0,
+                "daily_will_it_rain": 1,
+                "daily_chance_of_rain": 88,
+                "daily_will_it_snow": 0,
+                "daily_chance_of_snow": 56,
+                "condition": {
+                    "text": "Moderate or heavy snow showers",
+                    "icon": "//cdn.weatherapi.com/weather/64x64/day/371.png",
+                    "code": 1258
+                },
+                "uv": 1.0
+            },
+            "astro": {
+                "sunrise": "07:47 AM",
+                "sunset": "04:47 PM",
+                "moonrise": "03:31 PM",
+                "moonset": "05:23 AM",
+                "moon_phase": "Waxing Gibbous",
+                "moon_illumination": 93,
+                "is_moon_up": 1,
+                "is_sun_up": 0
+            }
+        },
+        {
+            "date": "2023-11-26",
+            "date_epoch": 1700956800,
+            "day": {
+                "maxtemp_c": 3.0,
+                "maxtemp_f": 37.4,
+                "mintemp_c": -6.5,
+                "mintemp_f": 20.4,
+                "avgtemp_c": -1.4,
+                "avgtemp_f": 29.4,
+                "maxwind_mph": 3.8,
+                "maxwind_kph": 6.1,
+                "totalprecip_mm": 0.11,
+                "totalprecip_in": 0.0,
+                "totalsnow_cm": 0.1,
+                "avgvis_km": 7.8,
+                "avgvis_miles": 4.0,
+                "avghumidity": 88.0,
+                "daily_will_it_rain": 1,
+                "daily_chance_of_rain": 72,
+                "daily_will_it_snow": 0,
+                "daily_chance_of_snow": 6,
+                "condition": {
+                    "text": "Light freezing rain",
+                    "icon": "//cdn.weatherapi.com/weather/64x64/day/311.png",
+                    "code": 1198
+                },
+                "uv": 1.0
+            },
+            "astro": {
+                "sunrise": "07:48 AM",
+                "sunset": "04:46 PM",
+                "moonrise": "03:57 PM",
+                "moonset": "06:44 AM",
+                "moon_phase": "Waxing Gibbous",
+                "moon_illumination": 98,
+                "is_moon_up": 1,
+                "is_sun_up": 0
+            }
+        },
+        {
+            "date": "2023-11-27",
+            "date_epoch": 1701043200,
+            "day": {
+                "maxtemp_c": 4.9,
+                "maxtemp_f": 40.8,
+                "mintemp_c": -1.9,
+                "mintemp_f": 28.5,
+                "avgtemp_c": 1.3,
+                "avgtemp_f": 34.4,
+                "maxwind_mph": 4.7,
+                "maxwind_kph": 7.6,
+                "totalprecip_mm": 6.3,
+                "totalprecip_in": 0.25,
+                "totalsnow_cm": 4.35,
+                "avgvis_km": 8.6,
+                "avgvis_miles": 5.0,
+                "avghumidity": 88.0,
+                "daily_will_it_rain": 1,
+                "daily_chance_of_rain": 80,
+                "daily_will_it_snow": 0,
+                "daily_chance_of_snow": 0,
+                "condition": {
+                    "text": "Moderate rain",
+                    "icon": "//cdn.weatherapi.com/weather/64x64/day/302.png",
+                    "code": 1189
+                },
+                "uv": 1.0
+            },
+            "astro": {
+                "sunrise": "07:50 AM",
+                "sunset": "04:46 PM",
+                "moonrise": "04:28 PM",
+                "moonset": "08:03 AM",
+                "moon_phase": "Full Moon",
+                "moon_illumination": 100,
+                "is_moon_up": 1,
+                "is_sun_up": 0
+            }
+        },
+        {
+            "date": "2023-11-28",
+            "date_epoch": 1701129600,
+            "day": {
+                "maxtemp_c": 3.4,
+                "maxtemp_f": 38.2,
+                "mintemp_c": 1.5,
+                "mintemp_f": 34.8,
+                "avgtemp_c": 3.0,
+                "avgtemp_f": 37.3,
+                "maxwind_mph": 7.4,
+                "maxwind_kph": 11.9,
+                "totalprecip_mm": 13.46,
+                "totalprecip_in": 0.53,
+                "totalsnow_cm": 0.64,
+                "avgvis_km": 5.0,
+                "avgvis_miles": 3.0,
+                "avghumidity": 99.0,
+                "daily_will_it_rain": 0,
+                "daily_chance_of_rain": 67,
+                "daily_will_it_snow": 0,
+                "daily_chance_of_snow": 0,
+                "condition": {
+                    "text": "Moderate rain",
+                    "icon": "//cdn.weatherapi.com/weather/64x64/day/302.png",
+                    "code": 1189
+                },
+                "uv": 1.0
+            },
+            "astro": {
+                "sunrise": "07:51 AM",
+                "sunset": "04:45 PM",
+                "moonrise": "05:10 PM",
+                "moonset": "09:18 AM",
+                "moon_phase": "Waning Gibbous",
+                "moon_illumination": 99,
+                "is_moon_up": 1,
+                "is_sun_up": 0
+            }
+        },
+        {
+            "date": "2023-11-29",
+            "date_epoch": 1701216000,
+            "day": {
+                "maxtemp_c": 3.4,
+                "maxtemp_f": 38.1,
+                "mintemp_c": -5.0,
+                "mintemp_f": 23.0,
+                "avgtemp_c": -0.3,
+                "avgtemp_f": 31.5,
+                "maxwind_mph": 3.1,
+                "maxwind_kph": 5.0,
+                "totalprecip_mm": 0.43,
+                "totalprecip_in": 0.02,
+                "totalsnow_cm": 0.36,
+                "avgvis_km": 6.0,
+                "avgvis_miles": 3.0,
+                "avghumidity": 94.0,
+                "daily_will_it_rain": 0,
+                "daily_chance_of_rain": 58,
+                "daily_will_it_snow": 0,
+                "daily_chance_of_snow": 14,
+                "condition": {
+                    "text": "Freezing fog",
+                    "icon": "//cdn.weatherapi.com/weather/64x64/day/260.png",
+                    "code": 1147
+                },
+                "uv": 1.0
+            },
+            "astro": {
+                "sunrise": "07:52 AM",
+                "sunset": "04:44 PM",
+                "moonrise": "06:03 PM",
+                "moonset": "10:23 AM",
+                "moon_phase": "Waning Gibbous",
+                "moon_illumination": 97,
+                "is_moon_up": 1,
+                "is_sun_up": 0
+            }
+        },
+        {
+            "date": "2023-11-30",
+            "date_epoch": 1701302400,
+            "day": {
+                "maxtemp_c": 2.3,
+                "maxtemp_f": 36.1,
+                "mintemp_c": -3.6,
+                "mintemp_f": 25.5,
+                "avgtemp_c": 0.6,
+                "avgtemp_f": 33.0,
+                "maxwind_mph": 4.7,
+                "maxwind_kph": 7.6,
+                "totalprecip_mm": 4.1,
+                "totalprecip_in": 0.16,
+                "totalsnow_cm": 0.0,
+                "avgvis_km": 8.6,
+                "avgvis_miles": 5.0,
+                "avghumidity": 93.0,
+                "daily_will_it_rain": 1,
+                "daily_chance_of_rain": 88,
+                "daily_will_it_snow": 0,
+                "daily_chance_of_snow": 9,
+                "condition": {
+                    "text": "Light freezing rain",
+                    "icon": "//cdn.weatherapi.com/weather/64x64/day/311.png",
+                    "code": 1198
+                },
+                "uv": 1.0
+            },
+            "astro": {
+                "sunrise": "07:53 AM",
+                "sunset": "04:44 PM",
+                "moonrise": "07:04 PM",
+                "moonset": "11:15 AM",
+                "moon_phase": "Waning Gibbous",
+                "moon_illumination": 92,
+                "is_moon_up": 1,
+                "is_sun_up": 0
+            }
+        },
+        {
+            "date": "2023-12-01",
+            "date_epoch": 1701388800,
+            "day": {
+                "maxtemp_c": 5.4,
+                "maxtemp_f": 41.8,
+                "mintemp_c": -0.8,
+                "mintemp_f": 30.6,
+                "avgtemp_c": 3.3,
+                "avgtemp_f": 37.9,
+                "maxwind_mph": 11.0,
+                "maxwind_kph": 17.6,
+                "totalprecip_mm": 3.27,
+                "totalprecip_in": 0.13,
+                "totalsnow_cm": 0.0,
+                "avgvis_km": 9.6,
+                "avgvis_miles": 5.0,
+                "avghumidity": 93.0,
+                "daily_will_it_rain": 1,
+                "daily_chance_of_rain": 87,
+                "daily_will_it_snow": 0,
+                "daily_chance_of_snow": 8,
+                "condition": {
+                    "text": "Patchy rain possible",
+                    "icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+                    "code": 1063
+                },
+                "uv": 1.0
+            },
+            "astro": {
+                "sunrise": "07:54 AM",
+                "sunset": "04:43 PM",
+                "moonrise": "08:12 PM",
+                "moonset": "11:55 AM",
+                "moon_phase": "Waning Gibbous",
+                "moon_illumination": 86,
+                "is_moon_up": 1,
+                "is_sun_up": 0
+            }
+        },
+        {
+            "date": "2023-12-02",
+            "date_epoch": 1701475200,
+            "day": {
+                "maxtemp_c": 2.7,
+                "maxtemp_f": 36.9,
+                "mintemp_c": -2.3,
+                "mintemp_f": 27.9,
+                "avgtemp_c": 1.0,
+                "avgtemp_f": 33.8,
+                "maxwind_mph": 13.6,
+                "maxwind_kph": 22.0,
+                "totalprecip_mm": 1.76,
+                "totalprecip_in": 0.07,
+                "totalsnow_cm": 1.48,
+                "avgvis_km": 7.4,
+                "avgvis_miles": 4.0,
+                "avghumidity": 94.0,
+                "daily_will_it_rain": 1,
+                "daily_chance_of_rain": 88,
+                "daily_will_it_snow": 0,
+                "daily_chance_of_snow": 18,
+                "condition": {
+                    "text": "Patchy rain possible",
+                    "icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+                    "code": 1063
+                },
+                "uv": 1.0
+            },
+            "astro": {
+                "sunrise": "07:56 AM",
+                "sunset": "04:43 PM",
+                "moonrise": "09:21 PM",
+                "moonset": "12:25 PM",
+                "moon_phase": "Waning Gibbous",
+                "moon_illumination": 79,
+                "is_moon_up": 1,
+                "is_sun_up": 0
+            }
+        },
+        {
+            "date": "2023-12-03",
+            "date_epoch": 1701561600,
+            "day": {
+                "maxtemp_c": 1.7,
+                "maxtemp_f": 35.1,
+                "mintemp_c": -3.8,
+                "mintemp_f": 25.1,
+                "avgtemp_c": -1.3,
+                "avgtemp_f": 29.7,
+                "maxwind_mph": 3.6,
+                "maxwind_kph": 5.8,
+                "totalprecip_mm": 0.45,
+                "totalprecip_in": 0.02,
+                "totalsnow_cm": 0.37,
+                "avgvis_km": 6.8,
+                "avgvis_miles": 4.0,
+                "avghumidity": 92.0,
+                "daily_will_it_rain": 1,
+                "daily_chance_of_rain": 79,
+                "daily_will_it_snow": 0,
+                "daily_chance_of_snow": 69,
+                "condition": {
+                    "text": "Mist",
+                    "icon": "//cdn.weatherapi.com/weather/64x64/day/143.png",
+                    "code": 1030
+                },
+                "uv": 1.0
+            },
+            "astro": {
+                "sunrise": "07:57 AM",
+                "sunset": "04:42 PM",
+                "moonrise": "10:29 PM",
+                "moonset": "12:48 PM",
+                "moon_phase": "Waning Gibbous",
+                "moon_illumination": 71,
+                "is_moon_up": 1,
+                "is_sun_up": 0
+            }
+        }
+    ]
+}

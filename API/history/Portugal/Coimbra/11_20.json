@@ -1,0 +1,49 @@
+{
+    "location": {
+        "name": "Coimbra",
+        "region": "Coimbra",
+        "country": "Portugal",
+        "lat": 40.2,
+        "lon": -8.42,
+        "tz_id": "Europe/Lisbon",
+        "localtime_epoch": 1700865359,
+        "localtime": "2023-11-24 22:35"
+    },
+    "forecast": {
+        "forecastday": [
+            {
+                "date": "2023-11-20",
+                "date_epoch": 1700438400,
+                "day": {
+                    "maxtemp_c": 19.1,
+                    "maxtemp_f": 66.5,
+                    "mintemp_c": 10.5,
+                    "mintemp_f": 51.0,
+                    "avgtemp_c": 13.9,
+                    "avgtemp_f": 56.9,
+                    "maxwind_mph": 6.5,
+                    "maxwind_kph": 10.4,
+                    "totalprecip_mm": 0.0,
+                    "totalprecip_in": 0.0,
+                    "avgvis_km": 7.7,
+                    "avgvis_miles": 4.0,
+                    "avghumidity": 87.0,
+                    "condition": {
+                        "text": "Mist",
+                        "icon": "//cdn.weatherapi.com/weather/64x64/day/143.png",
+                        "code": 1030
+                    },
+                    "uv": 4.0
+                },
+                "astro": {
+                    "sunrise": "07:25 AM",
+                    "sunset": "05:14 PM",
+                    "moonrise": "01:45 PM",
+                    "moonset": "No moonset",
+                    "moon_phase": "First Quarter",
+                    "moon_illumination": 45
+                }
+            }
+        ]
+    }
+}

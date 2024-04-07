@@ -1,0 +1,49 @@
+{
+    "location": {
+        "name": "Rome",
+        "region": "Lazio",
+        "country": "Italy",
+        "lat": 41.9,
+        "lon": 12.48,
+        "tz_id": "Europe/Rome",
+        "localtime_epoch": 1701888043,
+        "localtime": "2023-12-06 19:40"
+    },
+    "forecast": {
+        "forecastday": [
+            {
+                "date": "2023-11-20",
+                "date_epoch": 1700438400,
+                "day": {
+                    "maxtemp_c": 17.7,
+                    "maxtemp_f": 63.9,
+                    "mintemp_c": 14.0,
+                    "mintemp_f": 57.2,
+                    "avgtemp_c": 15.9,
+                    "avgtemp_f": 60.6,
+                    "maxwind_mph": 8.1,
+                    "maxwind_kph": 13.0,
+                    "totalprecip_mm": 1.32,
+                    "totalprecip_in": 0.05,
+                    "avgvis_km": 9.7,
+                    "avgvis_miles": 6.0,
+                    "avghumidity": 79.0,
+                    "condition": {
+                        "text": "Patchy rain possible",
+                        "icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+                        "code": 1063
+                    },
+                    "uv": 4.0
+                },
+                "astro": {
+                    "sunrise": "07:05 AM",
+                    "sunset": "04:45 PM",
+                    "moonrise": "01:23 PM",
+                    "moonset": "11:54 PM",
+                    "moon_phase": "First Quarter",
+                    "moon_illumination": 45
+                }
+            }
+        ]
+    }
+}

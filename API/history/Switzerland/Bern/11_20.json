@@ -1,0 +1,49 @@
+{
+    "location": {
+        "name": "Bern",
+        "region": "",
+        "country": "Switzerland",
+        "lat": 46.92,
+        "lon": 7.47,
+        "tz_id": "Europe/Zurich",
+        "localtime_epoch": 1701887474,
+        "localtime": "2023-12-06 19:31"
+    },
+    "forecast": {
+        "forecastday": [
+            {
+                "date": "2023-11-20",
+                "date_epoch": 1700438400,
+                "day": {
+                    "maxtemp_c": 10.8,
+                    "maxtemp_f": 51.4,
+                    "mintemp_c": 4.6,
+                    "mintemp_f": 40.3,
+                    "avgtemp_c": 7.3,
+                    "avgtemp_f": 45.2,
+                    "maxwind_mph": 7.6,
+                    "maxwind_kph": 12.2,
+                    "totalprecip_mm": 0.03,
+                    "totalprecip_in": 0.0,
+                    "avgvis_km": 9.3,
+                    "avgvis_miles": 5.0,
+                    "avghumidity": 86.0,
+                    "condition": {
+                        "text": "Mist",
+                        "icon": "//cdn.weatherapi.com/weather/64x64/day/143.png",
+                        "code": 1030
+                    },
+                    "uv": 3.0
+                },
+                "astro": {
+                    "sunrise": "07:40 AM",
+                    "sunset": "04:51 PM",
+                    "moonrise": "01:55 PM",
+                    "moonset": "No moonset",
+                    "moon_phase": "First Quarter",
+                    "moon_illumination": 45
+                }
+            }
+        ]
+    }
+}

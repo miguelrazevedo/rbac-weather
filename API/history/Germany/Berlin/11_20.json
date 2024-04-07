@@ -1,0 +1,49 @@
+{
+    "location": {
+        "name": "Berlin",
+        "region": "Berlin",
+        "country": "Germany",
+        "lat": 52.52,
+        "lon": 13.4,
+        "tz_id": "Europe/Berlin",
+        "localtime_epoch": 1701887322,
+        "localtime": "2023-12-06 19:28"
+    },
+    "forecast": {
+        "forecastday": [
+            {
+                "date": "2023-11-20",
+                "date_epoch": 1700438400,
+                "day": {
+                    "maxtemp_c": 10.1,
+                    "maxtemp_f": 50.2,
+                    "mintemp_c": 8.5,
+                    "mintemp_f": 47.3,
+                    "avgtemp_c": 9.2,
+                    "avgtemp_f": 48.5,
+                    "maxwind_mph": 10.7,
+                    "maxwind_kph": 17.3,
+                    "totalprecip_mm": 17.39,
+                    "totalprecip_in": 0.68,
+                    "avgvis_km": 7.2,
+                    "avgvis_miles": 4.0,
+                    "avghumidity": 93.0,
+                    "condition": {
+                        "text": "Moderate rain",
+                        "icon": "//cdn.weatherapi.com/weather/64x64/day/302.png",
+                        "code": 1189
+                    },
+                    "uv": 3.0
+                },
+                "astro": {
+                    "sunrise": "07:37 AM",
+                    "sunset": "04:07 PM",
+                    "moonrise": "01:48 PM",
+                    "moonset": "11:26 PM",
+                    "moon_phase": "First Quarter",
+                    "moon_illumination": 45
+                }
+            }
+        ]
+    }
+}

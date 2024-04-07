@@ -1,0 +1,49 @@
+{
+    "location": {
+        "name": "Amsterdam",
+        "region": "North Holland",
+        "country": "Netherlands",
+        "lat": 52.37,
+        "lon": 4.89,
+        "tz_id": "Europe/Amsterdam",
+        "localtime_epoch": 1701886971,
+        "localtime": "2023-12-06 19:22"
+    },
+    "forecast": {
+        "forecastday": [
+            {
+                "date": "2023-11-20",
+                "date_epoch": 1700438400,
+                "day": {
+                    "maxtemp_c": 12.1,
+                    "maxtemp_f": 53.7,
+                    "mintemp_c": 8.4,
+                    "mintemp_f": 47.1,
+                    "avgtemp_c": 10.4,
+                    "avgtemp_f": 50.7,
+                    "maxwind_mph": 15.7,
+                    "maxwind_kph": 25.2,
+                    "totalprecip_mm": 2.25,
+                    "totalprecip_in": 0.09,
+                    "avgvis_km": 10.0,
+                    "avgvis_miles": 6.0,
+                    "avghumidity": 83.0,
+                    "condition": {
+                        "text": "Patchy rain possible",
+                        "icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+                        "code": 1063
+                    },
+                    "uv": 3.0
+                },
+                "astro": {
+                    "sunrise": "08:10 AM",
+                    "sunset": "04:41 PM",
+                    "moonrise": "02:22 PM",
+                    "moonset": "No moonset",
+                    "moon_phase": "First Quarter",
+                    "moon_illumination": 45
+                }
+            }
+        ]
+    }
+}

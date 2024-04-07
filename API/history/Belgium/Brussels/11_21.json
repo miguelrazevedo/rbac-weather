@@ -1,0 +1,49 @@
+{
+    "location": {
+        "name": "Brussels",
+        "region": "",
+        "country": "Belgium",
+        "lat": 50.83,
+        "lon": 4.33,
+        "tz_id": "Europe/Brussels",
+        "localtime_epoch": 1701887697,
+        "localtime": "2023-12-06 19:34"
+    },
+    "forecast": {
+        "forecastday": [
+            {
+                "date": "2023-11-21",
+                "date_epoch": 1700524800,
+                "day": {
+                    "maxtemp_c": 9.5,
+                    "maxtemp_f": 49.1,
+                    "mintemp_c": 6.5,
+                    "mintemp_f": 43.6,
+                    "avgtemp_c": 8.0,
+                    "avgtemp_f": 46.4,
+                    "maxwind_mph": 12.3,
+                    "maxwind_kph": 19.8,
+                    "totalprecip_mm": 0.1,
+                    "totalprecip_in": 0.0,
+                    "avgvis_km": 7.7,
+                    "avgvis_miles": 4.0,
+                    "avghumidity": 88.0,
+                    "condition": {
+                        "text": "Patchy rain possible",
+                        "icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+                        "code": 1063
+                    },
+                    "uv": 2.0
+                },
+                "astro": {
+                    "sunrise": "08:07 AM",
+                    "sunset": "04:49 PM",
+                    "moonrise": "02:35 PM",
+                    "moonset": "12:09 AM",
+                    "moon_phase": "Waxing Gibbous",
+                    "moon_illumination": 56
+                }
+            }
+        ]
+    }
+}
