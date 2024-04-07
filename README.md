@@ -41,6 +41,6 @@ Server running on port 5000.
 
 ![architecture](./architecture.png 'Web App Architecture')
 
-## OAuth 2.0
+## OAuth 2.0 Implementation
 
 ![Architecture using OAuth 2.0](./oauth.png 'OAuth 2.0')
